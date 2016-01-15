@@ -60,3 +60,4 @@ target/
 .ropeproject
 
 calc/parser.out
+calc/parsetab.py
